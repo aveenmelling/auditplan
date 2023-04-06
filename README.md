@@ -18,4 +18,5 @@ Various queries to use for management reporting including use of time intelligen
 
 And finally I created a basic Tableau dashboard to provide management insight on various aspects including a breakdown of grades by executive sponsor (to identify problematic business areas) and by audit manager (to identify whether anyone is particularly harsh or lenient), overview of current status, in-flight audits broken down by team and manager etc. 
 
+Please note that the contents of the database are fictional. 
 
