@@ -1,9 +1,13 @@
 For this project I created a database to manage the internal audit plan of a large company, including:
 
 Audit teams, managers and individual team members 
+
 Executive management sponsors and key stakeholders 
+
 Audit plan including key milestones, status and final grade for each audit 
+
 Capture the results of post-audit feedback questionnaires
+
 Enable production of management information (MI) and reporting on timescales, team performance, stakeholder interaction and other factors
 
 The database comprises 10 tables in total: two fact tables and eight dimension tables, all normalised to 3NF and with auto incrementing primary keys. 
